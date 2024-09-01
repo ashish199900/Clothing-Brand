@@ -1,0 +1,5 @@
+# Node.js modules
+node_modules/
+
+# Ignore VSCode launch configuration
+.vscode/launch.json
